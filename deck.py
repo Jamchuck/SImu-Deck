@@ -7,6 +7,3 @@ drawn = [48,49]
 def draw():
         drawncard = random.randrange(0,47)
         return cards[drawncard]
-
-for x in cards:
-    print(draw())
