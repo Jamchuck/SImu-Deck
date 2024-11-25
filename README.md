@@ -1,4 +1,4 @@
-# SImu-Deck
+# Simu-Deck
  This project aims to create a library to quickly simulate the act of drawing from a standard deck for use in other projects 
 
 # Documentation
